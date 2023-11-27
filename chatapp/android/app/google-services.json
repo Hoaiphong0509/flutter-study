@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377161014135",
+    "firebase_url": "https://study-flutter-prep-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "study-flutter-prep",
+    "storage_bucket": "study-flutter-prep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377161014135:android:34c66e3def878fa25f9f72",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Mbk3zPGrWf2opTbCrMVhLNID3N5oeOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
